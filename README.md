@@ -26,5 +26,6 @@ Nesse curso foi mostrado um pouco sobre a história do HTML5 e do CSS3, foi expl
 - text-decoration.
 
 → [Curso da DIO (Digital Innovation One)](https://digitalinnovation.one/cursos/introducao-criacao-de-websites-com-html5-e-css3/)
+
 → [Meu certificado: ](https://certificates.digitalinnovation.one/D216BDA7)
 
