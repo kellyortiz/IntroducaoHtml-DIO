@@ -19,9 +19,11 @@ Nesse curso foi mostrado um pouco sobre a história do HTML5 e do CSS3, foi expl
 - Link do html para css;
 - Cor do fundo;
 - Borda;
-- Margem;
+- Margem e margin-bottom;
 - Cor do texto e tamanho da fonte;
-- Padding.
+- Padding e padding-lef;
+- list-style-type;
+- text-decoration.
 
 → Curso da DIO (Digital Innovation One)
 
