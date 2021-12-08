@@ -4,6 +4,8 @@ Nesse curso foi mostrado um pouco sobre a história do HTML5 e do CSS3, foi expl
 
 ## Estudo sobre:
 
+### HTML:
+
 - Estrutura básica do html;
 - Semântica: header, article, section e footer;
 - Tags: 
@@ -11,6 +13,15 @@ Nesse curso foi mostrado um pouco sobre a história do HTML5 e do CSS3, foi expl
   - Links: mailto e _blank;
   - Imagem;
   - Listas: ul, li e ol.
+
+### CSS3
+
+- Link do html para css;
+- Cor do fundo;
+- Borda;
+- Margem;
+- Cor do texto e tamanho da fonte;
+- Padding.
 
 → Curso da DIO (Digital Innovation One)
 
